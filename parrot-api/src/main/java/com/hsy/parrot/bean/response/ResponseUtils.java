@@ -1,17 +1,17 @@
 package com.hsy.parrot.bean.response;
 
 /**
- * å°è£…ç»“æœ
- * ç®€è¿°åŠŸèƒ½
+ * ·â×°½á¹û
+ * ¼òÊö¹¦ÄÜ
  * ClassName: ResponseUtils    
- * date: 2018å¹´1æœˆ26æ—¥ ä¸‹åˆ4:03:45 
+ * date: 2018Äê1ÔÂ26ÈÕ ÏÂÎç4:03:45 
  * @author hsy
  * @since JDK 1.8
  */
 public class ResponseUtils {
 
     /**
-     * è¯·æ±‚æˆåŠŸï¼Œæ— å‚æ•°
+     * ÇëÇó³É¹¦£¬ÎŞ²ÎÊı
      * @author 82702
      * @return
      * @since JDK 1.8
@@ -21,7 +21,7 @@ public class ResponseUtils {
     }
 
     /**
-     * è¯·æ±‚æˆåŠŸï¼Œæœ‰å‚æ•°
+     * ÇëÇó³É¹¦£¬ÓĞ²ÎÊı
      * @author 82702
      * @param c
      * @return
@@ -32,8 +32,8 @@ public class ResponseUtils {
     }
 
     /**
-     * è¯·æ±‚æˆåŠŸä¸å¦ï¼Œç”±messageå†³å®šï¼Œå½“messageä¸ºâ€œerrorâ€æ—¶ï¼Œè¯·æ±‚å¤±è´¥ï¼›å…¶ä½™å€¼å‡ä¸ºæˆåŠŸï¼›
-     * æœ‰å‚æ•°
+     * ÇëÇó³É¹¦Óë·ñ£¬ÓÉmessage¾ö¶¨£¬µ±messageÎª¡°error¡±Ê±£¬ÇëÇóÊ§°Ü£»ÆäÓàÖµ¾ùÎª³É¹¦£»
+     * ÓĞ²ÎÊı
      * @author 82702
      * @param c
      * @param message
@@ -45,7 +45,7 @@ public class ResponseUtils {
     }
 
     /**
-     * è¯·æ±‚æˆåŠŸä¸å¦ï¼Œç”±messageå†³å®šï¼Œå½“messageä¸ºâ€œerrorâ€æ—¶ï¼Œè¯·æ±‚å¤±è´¥ï¼›å…¶ä½™å€¼å‡ä¸ºæˆåŠŸï¼›
+     * ÇëÇó³É¹¦Óë·ñ£¬ÓÉmessage¾ö¶¨£¬µ±messageÎª¡°error¡±Ê±£¬ÇëÇóÊ§°Ü£»ÆäÓàÖµ¾ùÎª³É¹¦£»
      * @author 82702
      * @param message
      * @return
@@ -56,7 +56,7 @@ public class ResponseUtils {
     }
 
     /**
-     * è¯·æ±‚æˆåŠŸä¸å¦
+     * ÇëÇó³É¹¦Óë·ñ
      * @author whz
      * @param result
      * @param message
@@ -68,7 +68,7 @@ public class ResponseUtils {
     }
 
     /**
-     * è¯·æ±‚æˆåŠŸä¸å¦
+     * ÇëÇó³É¹¦Óë·ñ
      * @author whz
      * @param result
      * @return
@@ -79,7 +79,7 @@ public class ResponseUtils {
     }
 
     /**
-     * è¯·æ±‚æˆåŠŸä¸å¦
+     * ÇëÇó³É¹¦Óë·ñ
      * @author whz
      * @param result
      * @param message

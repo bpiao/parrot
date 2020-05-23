@@ -16,24 +16,24 @@ public class KafkaOutMsg implements Serializable {
 	 */
 	private long id;
     /**
-	 * æ¡£æ¡ˆå· 
+	 * µµ°¸ºÅ 
 	 */
 	private long fwBh;
     /**
-	 * å¤„ç†æ ‡è®° 0 å¤±è´¥ 1 æˆåŠŸ 
+	 * ´¦Àí±ê¼Ç 0 Ê§°Ü 1 ³É¹¦ 
 	 */
 	private boolean dealFlag;
     /**
-	 * åˆ›å»ºæ—¶é—´ 
+	 * ´´½¨Ê±¼ä 
 	 */
 	private Date gmtCreate;
     /**
-	 * æ›´æ–°æ—¶é—´ 
+	 * ¸üĞÂÊ±¼ä 
 	 */
 	private Date gmtUpdate;
 
 	/**
-	 * æ„é€ 
+	 * ¹¹Ôì
 	 */
 	public KafkaOutMsg() {
 	}

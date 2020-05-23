@@ -13,7 +13,7 @@
 
 
     <groupId>com.hsy.parrot</groupId>
-    <artifactId>springcloud-study</artifactId>
+    <artifactId>parrot</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -53,15 +53,6 @@
         </dependencies>
 
     </dependencyManagement>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
 
     <repositories>
         <repository>
